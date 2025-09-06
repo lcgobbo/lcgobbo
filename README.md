@@ -1,6 +1,6 @@
 # 👩🏻‍💻 Lucas Gobbo
 
-**`Desenvolvedora Python`**
+**`Desenvolvedor Python`**
 
 Me chamo Lucas Gobbo Cruz, tenho 20 anos e sou natural de Jundiaí-SP. Atualmente, estou cursando Ciências da Computação na UniAnchieta.
 
