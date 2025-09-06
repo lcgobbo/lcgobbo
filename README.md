@@ -19,6 +19,16 @@ Me chamo Lucas Gobbo Cruz, tenho 20 anos e sou natural de Jundiaí-SP. Atualment
             src="https://custom-icon-badges.demolab.com/github/followers/lcgobbo?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
         />
     </a>
+    <a href="https://www.linkedin.com/in/lucas-gobbo-ti">
+    <img
+        title="Linkedin - Lucas Gobbo"
+        src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="(https://github.com/lcgobbo">
+    <img
+        title="GitHub - Lucas Gobbo"
+        src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
 </p>
 
 ---
