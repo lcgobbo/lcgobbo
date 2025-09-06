@@ -1,6 +1,6 @@
 # 👩🏻‍💻 Lucas Gobbo
 
-**`Desenvolvedor Python`**
+**`Desenvolvedor Fullstack`**
 
 Me chamo Lucas Gobbo Cruz, tenho 20 anos e sou natural de Jundiaí-SP. Atualmente, estou cursando Ciências da Computação na UniAnchieta.
 
