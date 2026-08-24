@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Backend`**
 
-Me chamo Lucas Gobbo Cruz, tenho 20 anos e sou natural de Jundiaí-SP. Atualmente, estou cursando Ciências da Computação na UniAnchieta.
+Me chamo Lucas Gobbo Cruz, tenho 21 anos e sou natural de Jundiaí-SP. Atualmente, estou cursando Ciências da Computação na UniAnchieta.
 
 <p align="left">
     <a href="https://github.com/lcgobbo?tab=repositories&sort=stargazers">
